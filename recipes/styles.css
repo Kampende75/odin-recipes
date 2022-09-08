@@ -42,4 +42,6 @@ body {
  
   .aligncenter {
     text-align: center;
+    width: 100%;
+    height: auto;
   }
