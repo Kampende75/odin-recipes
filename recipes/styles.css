@@ -1,6 +1,6 @@
 /*Top header image*/
 .restaurant {
-  height: auto;
+  height: 700px;
   width: 100%;
   position: -webkit-sticky;
 }
@@ -38,5 +38,4 @@ body {
     padding: auto;
     font-size: 40px;
   }
-
   
