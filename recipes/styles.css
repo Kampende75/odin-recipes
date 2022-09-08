@@ -1,6 +1,6 @@
 /*Top header image*/
 .restaurant {
-  height: 700px;
+  height: auto;
   width: 100%;
   position: -webkit-sticky;
 }
@@ -21,7 +21,7 @@
     bottom: 0;
     left: 0;
     width: 100%;
-    height: auto;
+    height: 70px;
     color: white;
     background-color: black;
 }
