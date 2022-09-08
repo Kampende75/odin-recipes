@@ -3,3 +3,13 @@ body {
     font-family: 'Times New Roman', Times, serif;
     background-color: white;
 }
+
+a {
+    text-align: center;
+    color: navy;
+    font-weight: bold;
+}
+
+a:hover {
+    color: red;
+}
