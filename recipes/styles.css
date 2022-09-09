@@ -41,8 +41,8 @@ body {
   }
  
   .aligncenter {
-    text-align: center;
     display: block;
-    margin: auto;
-    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
