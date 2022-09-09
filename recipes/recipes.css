@@ -8,6 +8,10 @@ a {
     text-align: center;
     color: navy;
     font-weight: bold;
+    display: block;
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
 }
 
 a:hover {
