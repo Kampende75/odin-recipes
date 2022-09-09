@@ -39,10 +39,3 @@ body {
     padding: auto;
     font-size: 40px;
   }
- 
-  .aligncenter {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
