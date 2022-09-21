@@ -6,6 +6,7 @@ body {
 
 .back {
     text-align: center;
+    text-decoration: none;
     color: navy;
     font-weight: bold;
     display: block;
